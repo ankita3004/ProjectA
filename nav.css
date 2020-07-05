@@ -1,0 +1,37 @@
+.bg-custom{
+    background-color:#020a3d;
+    padding:10px;
+}
+.bg-custom .navbar-brand{
+  color:white;
+  font-size: 2em;
+}
+.nav-link {
+    background-color: white;
+    color: black !important;
+    font-size:1.5em;
+    border:1px solid black;
+}
+.heading{
+  margin:20px;
+  padding:5px;
+  color:#020a3d;
+}
+.first{
+  padding:10px;
+}
+.second{
+    padding:10px;
+
+}
+
+.third{
+  padding:10px;
+}
+
+section{
+  background-color:#c4d6ff;
+  color:black;
+  padding:10px;
+  margin:0 20px 0 20px;
+}
